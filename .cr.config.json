@@ -1,0 +1,24 @@
+{
+    "ext": [
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "vue",
+        "html",
+        "md"
+    ],
+    "path": [
+        "/src"
+    ],
+    "ignore": [
+        "/dist/**",
+        "dest/**",
+        "./node_modules/**",
+        "test/**",
+        "data/**",
+        "src/doc/**",
+        "doc",
+        "entries/"
+    ]
+}
